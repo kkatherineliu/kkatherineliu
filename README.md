@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🌻 My name is Katherine and I'm in my 1B term, pursuing a Bachelor of Computer Science at the University of Waterloo
 
-🌱 I'm currently experimenting with and expanding my knowledge of basic machine learning concepts and data analysis procedures
+🌱 I'm currently exploring basic machine learning concepts and data analysis procedures
 
 🐣 Natural language processing was really what got me interested in the field of ML. Specifically, I heard about research from other students regarding social media sentiment analysis (a CS student at UofT who looked at Reddit parenting threads, and another one from NYU who analyzed tweets to predict hospital housing needs). 
 
