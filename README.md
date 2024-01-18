@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💬 Hello fellow human and potential technology nerd :) 
+💬 print("Hello {}".format(name))
 
 🌻 My name is Katherine and I'm in my 1B term, pursuing a Bachelor of Computer Science at the University of Waterloo
 
