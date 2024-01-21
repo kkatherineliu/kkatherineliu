@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 🌱 I'm currently exploring basic machine learning algorithms and data analysis procedures
 
-🐣 Natural language processing was really what got me interested in the field of ML. Specifically, I heard about research from other students regarding social media sentiment analysis (a CS student at UofT who looked at Reddit parenting threads, and another one from NYU who analyzed tweets to predict hospital bed demand). 
+🐣 As for why, natural language processing was really what got me interested in the field of ML. Specifically, I heard about research from other students regarding social media sentiment analysis (a CS student at UofT who looked at Reddit parenting threads, and another one from NYU who analyzed tweets to predict hospital bed demand). 
 
 💃 Then I saw techie_ray (on YouTube) use computer vision to analyze K-pop choreographies and it made me realize how diverse and just _fun_ the applications of ML could be. Connecting with my other interests, I'd love to learn more about analyzing audio data (because music and language are magical) and NLP in other languages like Chinese (because I'm Chinese and jieba is a cute name for a library).
 
@@ -31,7 +31,7 @@ Comfortable languages: Java, Python, Racket, English, Mandarin
 
 Experimenting with: Scikit-learn, TensorFlow
 
-Learning: SQL, C, Korean
+Learning: SQL (Postgres), C, Korean
 
 
 
