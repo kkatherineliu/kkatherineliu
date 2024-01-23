@@ -15,23 +15,32 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💬 Hello~
+```python
+class Me:
 
-🌻 My name is Katherine and I'm in my 1B term, pursuing a Bachelor of Computer Science at the University of Waterloo.
+    def __init__(self):
+        self.name = "Katherine Liu"
+        self.education = "Bachelor of Computer Science at the University of Waterloo"
+        self.languages = ["en_US", "zh_CN"]
+        
+    def display_current_status(self):
+        print("Exploring data science and machine learning algorithms")
 
-🌱 I'm currently exploring basic machine learning algorithms and data analysis procedures. 
+    def display_future_goals(self):
+        print("Experiment with sentiment analysis and learn how to analyze audio data")
+```
+<!-- 
+🌻 Hi, I'm currently pursuing a Bachelor of Computer Science at the University of Waterloo (1B term).
+
+🌱 I'm currently exploring basic machine learning algorithms and data analysis procedures (housing price prediction with scikit-learn, sentiment analysis in python).
 
 🐣 As for why, natural language processing was really what got me interested in the field of ML. Specifically, I heard about research from other students regarding social media sentiment analysis (a CS student at UofT who looked at Reddit parenting threads, and another one from NYU who analyzed tweets to predict hospital bed demand). 
 
-💃 Then I saw techie_ray (on YouTube) use computer vision to analyze K-pop choreographies and it made me realize how diverse and just _fun_ the applications of ML could be. Connecting with my other interests, I'd love to learn more about analyzing audio data (because music and language are magical) and NLP in other languages like Chinese (because I'm Chinese and jieba is a cute name for a library).
+💃 Then I saw techie_ray (on YouTube) use computer vision to analyze K-pop choreographies and it made me realize how diverse and just _fun_ the applications of ML could be. 
 
-<hr>
-
-Comfortable languages: Java, Python, Racket, English, Mandarin
-
-Experimenting with: Scikit-learn, TensorFlow
-
-Learning: SQL (Postgres), C, Korean
+⭐️ I'd love to learn more about analyzing audio data (because music and language are magical) and NLP in other languages like Chinese (because I'm Chinese and jieba is a cute name for a library).
+-->
+`.py` `.java` `.rkt` `.c` `.sql`
 
 
 
