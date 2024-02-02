@@ -14,12 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+`.py` `.java` `.rkt` `.c` `.sql`
 
 ```python
-class Me:
+class Katherine:
 
     def __init__(self):
-        self.name = "Katherine Liu"
+        self.name = "Katherine Kexin Liu"
         self.education = "Bachelor of Computer Science at the University of Waterloo"
         self.languages = ["en_US", "zh_CN"]
         
@@ -27,7 +28,7 @@ class Me:
         print("Exploring data science and machine learning algorithms")
 
     def display_future_goals(self):
-        print("Experiment with sentiment analysis and learn how to analyze audio data")
+        print("Experiment with sentiment analysis and analyze audio data (for music and Chinese)")
 ```
 <!-- 
 🌻 Hi, I'm currently pursuing a Bachelor of Computer Science at the University of Waterloo (1B term).
@@ -40,7 +41,6 @@ class Me:
 
 ⭐️ I'd love to learn more about analyzing audio data (because music and language are magical) and NLP in other languages like Chinese (because I'm Chinese and jieba is a cute name for a library).
 -->
-`.py` `.java` `.rkt` `.c` `.sql`
 
 
 
