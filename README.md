@@ -28,7 +28,7 @@ class Katherine:
         print("Exploring data science and machine learning algorithms")
 
     def display_future_goals(self):
-        print("Experiment with sentiment analysis and analyze audio data (for music and Chinese)")
+        print("Experiment with LLMs and analyze audio data")
 ```
 <!-- 
 🌻 Hi, I'm currently pursuing a Bachelor of Computer Science at the University of Waterloo (1B term).
