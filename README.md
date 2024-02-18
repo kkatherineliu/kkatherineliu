@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-`.py` `.java` `.rkt` `.c` `.sql`
+`.py` `.java` `.js` `.c` `.sql` `.rkt`
 
 ```python
 class Katherine:
