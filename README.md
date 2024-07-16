@@ -23,12 +23,7 @@ class Katherine:
         self.name = "Katherine Kexin Liu"
         self.education = "Bachelor of Computer Science at the University of Waterloo"
         self.languages = ["en_US", "zh_CN"]
-        
-    def display_current_status(self):
-        print("Exploring data science and machine learning algorithms")
-
-    def display_future_goals(self):
-        print("Experiment with LLMs and analyze audio data")
+        self.pronounds = ["she", "her"]
 ```
 <!-- 
 🌻 Hi, I'm currently pursuing a Bachelor of Computer Science at the University of Waterloo (1B term).
