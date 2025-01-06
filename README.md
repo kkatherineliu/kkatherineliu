@@ -23,7 +23,7 @@ class Katherine:
         self.name = "Katherine Kexin Liu"
         self.education = "Bachelor of Computer Science at the University of Waterloo"
         self.languages = ["en_US", "zh_CN"]
-        self.pronounds = ["she", "her"]
+        self.pronouns = ["she", "her"]
 ```
 <!-- 
 🌻 Hi, I'm currently pursuing a Bachelor of Computer Science at the University of Waterloo (1B term).
